@@ -1,0 +1,13 @@
+html, body {
+    margin: 0;
+    padding: 0;
+  }
+  canvas {
+    display: block;
+    margin-right:auto;
+    margin-left:auto;
+    
+  }
+  body {
+   background-color: black;
+  }
